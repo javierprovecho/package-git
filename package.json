@@ -14,7 +14,7 @@
     "dependencies": {
         "q": "1.2.0",
         "lodash": "3.x.x || 2.4.x",
-        "gittle": "CodeboxIDE/gittle.js",
+        "gittle": "javierprovecho/gittle",
         "stringify": "3.1.0"
     },
     "browserify": {
